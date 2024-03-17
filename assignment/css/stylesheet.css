@@ -1,13 +1,13 @@
 
 
-.Header {
+.info Header {
     background: green;
     }
 
-.h3 {
+.info h3 {
     background-color: darkorchid; 
     color: black; 
     }      
-.h2 {
+.info h2 {
     background-color: plum;
 }
