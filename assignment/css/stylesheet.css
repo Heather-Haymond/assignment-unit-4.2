@@ -1,7 +1,7 @@
 
 
-.info Header {
-    background: green;
+header {
+    background-color: green;
     }
 
 .info h3 {
@@ -10,4 +10,9 @@
     }      
 .info h2 {
     background-color: plum;
+}
+.info img {
+    display: block;
+    max-width: 100%;
+    height: auto;
 }
